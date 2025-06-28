@@ -27,8 +27,8 @@ restart(1)
 
 # Etap 2 – narzędzia dla Kodzia
 etap("2: Pakiety dla Kodzia", [
-    "pip install --upgrade pip",
-    "pip install openai requests"
+    "pip3 install --upgrade pip",
+    "pip3 install openai requests"
 ])
 restart(2)
 
